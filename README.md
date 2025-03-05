@@ -1,6 +1,6 @@
 <div align="center">
 
-# LocalQR
+# [LocalQR](https://thatsinewave.github.io/LocalQR)
 
 ![LocalQR](https://raw.githubusercontent.com/ThatSINEWAVE/LocalQR/refs/heads/main/.github/SCREENSHOTS/LocalQR.png)
 
