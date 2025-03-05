@@ -16,7 +16,9 @@ async function startCamera() {
         video.style.display = "block";
 
         stream = await navigator.mediaDevices.getUserMedia({
-            video: { facingMode: "environment" }
+            video: {
+                facingMode: "environment"
+            }
         });
         video.srcObject = stream;
         scanFromCamera();
